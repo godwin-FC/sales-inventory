@@ -3,5 +3,5 @@ pandas
 numpy
 matplotlib
 openpyxl
-sqlalchemy   
-psycopg2     
+sqlalchemy
+psycopg2-binary
